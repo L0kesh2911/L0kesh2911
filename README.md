@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/lokesh-thodkar-282974239)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/lokesh-thodkar/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:thodkar.l@northeastern.edu)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366)](tel:+18574059632)
 [![Location](https://img.shields.io/badge/Boston,_MA-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=FF6B6B)](https://maps.google.com/?q=Boston,MA)
@@ -167,23 +167,15 @@
 
 ## 📊 **GitHub Analytics**
 
-<!-- 
-SETUP INSTRUCTIONS:
-1. Replace 'yourusername' below with your actual GitHub username
-2. Make sure your GitHub profile is public for stats to display
-3. If you want private repo stats, you'll need to deploy your own instance of github-readme-stats
--->
-
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=L0kesh2911&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF" />
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=L0kesh2911&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
@@ -193,7 +185,7 @@ SETUP INSTRUCTIONS:
 
 <div align="center">
   
-[![Lokesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lokesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=L0kesh2911&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -203,7 +195,7 @@ SETUP INSTRUCTIONS:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=L0kesh2911&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -246,7 +238,7 @@ SETUP INSTRUCTIONS:
 
 ### 🌟 **"Innovation happens when data meets creativity"**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00F5FF&style=for-the-badge&label=Profile+Views)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=L0kesh2911&color=00F5FF&style=for-the-badge&label=Profile+Views)](https://github.com/L0kesh2911)
 
 **⚡ Fun Fact:** Currently pursuing MS in Information Systems while building the next generation of intelligent data solutions!
 
