@@ -167,16 +167,23 @@
 
 ## 📊 **GitHub Analytics**
 
+<!-- 
+SETUP INSTRUCTIONS:
+1. Replace 'yourusername' below with your actual GitHub username
+2. Make sure your GitHub profile is public for stats to display
+3. If you want private repo stats, you'll need to deploy your own instance of github-readme-stats
+-->
+
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" />
 
 </div>
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=00F5FF&fire=FF6B6B&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
@@ -186,7 +193,7 @@
 
 <div align="center">
   
-[![Lokesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Lokesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0D1117&color=00F5FF&line=00F5FF&point=FF6B6B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -196,7 +203,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
